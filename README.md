@@ -1,7 +1,6 @@
 # Simple Chat
 
-A chat application that users can send real-time messages to each other using `Socket.io`. 
-Users will also be able to set their username.
+Simple Chat is a chat application that users can send real-time messages to each other. The chat simulates a single chatroom, where many different users can send messages at a time. Users are also able to set their username to identify themselves.
 
 ## Getting Started
 
@@ -21,9 +20,9 @@ Users will also be able to set their username.
 - CSS
 - JavaScript
 
-## Acknowledgements
+## Future Enhancements
 
-- Bloc for this assignment
-- Socket.io for great documentation
-- Bootstrap for great documentation
+- Connect a database to store chat messages
+- Build chatroom feature
+- Add authentication feature
 
