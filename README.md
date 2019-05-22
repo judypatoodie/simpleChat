@@ -11,6 +11,11 @@ Simple Chat is a chat application that users can send real-time messages to each
 4. Run `npm start` to start the application
 5. In your browser, navigate to `localhost:3000`to view the live App!
 
+## How to
+**Send Messages**: Type in the input box at the bottom of the screen and click the `Send` button. See your messages in the chat box! Users who do not set their username will have their messages sent as an `Anonymous` user.
+
+**Set Username**: To set your username, type in the input box at the top of the screen and click the `Set Username` button. Now, when you send messages, you will see it being sent from the username you have set!
+
 ## Built With
 
 - Node.js
