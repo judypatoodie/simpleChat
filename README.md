@@ -1,7 +1,29 @@
 # Simple Chat
 
-This is a simple chat application that users can send real-time messages to each other using `Socket.io`. Messages will be cleared upon browser refresh.
-Users can set their username and type messages.
+A chat application that users can send real-time messages to each other using `Socket.io`. 
+Users will also be able to set their username.
 
-This is built using Node.js and Express.
+## Getting Started
+
+### Set up
+1. In your terminal, clone the git repo into a directory of your choice
+2. `cd` into the newly cloned repo
+3. Run `npm install` to install all the node modules
+4. Run `npm start` to start the application
+5. In your browser, navigate to `localhost:3000`to view the live App!
+
+## Built With
+
+- Node.js
+- Bootstrap
+- Socket.io
+- HTML5
+- CSS
+- JavaScript
+
+## Acknowledgements
+
+- Bloc for this assignment
+- Socket.io for great documentation
+- Bootstrap for great documentation
 
