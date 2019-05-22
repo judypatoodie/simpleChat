@@ -20,6 +20,9 @@ Simple Chat is a chat application that users can send real-time messages to each
 - CSS
 - JavaScript
 
+## Landing Page
+![Screen Shot](https://www.dropbox.com/s/yfetzb3t3ljpxds/Snag_4df86dc0.png?dl=0)
+
 ## Future Enhancements
 
 - Connect a database to store chat messages
